@@ -1,0 +1,92 @@
+body {
+  background-image: url("background.jpg");
+}
+
+#navBox {
+  text-align: center;
+}
+
+.button {
+  border: 5px solid black;
+  border-radius: 10px;
+  color: black;
+  background-color: skyblue;
+  font-weight: bold;
+  font-size: 25px;
+  display: inline-block;
+  margin-top: auto;
+  margin: 5px;
+  width: 85px;
+  text-align: center;
+  padding: 10px;
+}
+
+#loginbox {
+  border: 5px solid black;
+  margin: auto;
+  text-align: center;
+  background-color: skyblue;
+  width: 400px;
+  border: 5px solid black;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.loginbox {
+  font-weight: bold;
+  font-size: 25px;
+  color: black;
+}
+
+.addbox {
+  font-weight: bold;
+  font-size: 25px;
+  color: black;
+  align-content: left;
+}
+
+.addform {
+  margin: auto;
+  margin-top: 1%;
+  background-color: skyblue;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.editconfirmationform {
+  margin: auto;
+  margin-top: 1%;
+  background-color: skyblue;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#mainContent {
+  margin: auto;
+  margin-top: 1%;
+  background-color: skyblue;
+  width: 40%;
+  border: 5px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: justify;
+  text-align-last: center;
+}
+
+#breedTable {
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.tableTitle {
+  padding: 15px;
+}
+
+#mainPara {
+  font-size: 20px;
+  margin: 20px;
+}
